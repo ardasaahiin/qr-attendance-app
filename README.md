@@ -1,2 +1,2 @@
 # qr-attendance-app
-Qr Kodlu İşe Giriş Çıkıkş Sistemi
+Qr Kodlu İşe Giriş Çıkış Sistemi
